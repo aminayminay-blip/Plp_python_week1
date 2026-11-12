@@ -1,0 +1,13 @@
+Create a GitHub repository for your assignment.
+
+For example:
+
+week-1-database-assignment
+
+Your repository should contain:
+
+week-1-database-assignment/
+│
+└── answer.sql
+
+Push your answer.sql file to the repository.
